@@ -17,12 +17,12 @@ Aby uruchomić projekt lokalnie, wykonaj poniższe kroki:
 ### 1. Sklonuj repozytorium
 
 ```bash
-git clone https://github.com/WhiteWolfWCY/win-a-day.git
+git clone https://github.com/BlaSee01/work_next_front.git
 ```
 
 ### 2. Przejdź do katalogu projektu
 ```bash
-cd win-a-day
+cd work_next_front
 ```
 
 ### 3. Zainstaluj zależności
