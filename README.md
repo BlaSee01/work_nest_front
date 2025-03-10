@@ -3,10 +3,6 @@
 ### Next.js, TypeScript
 HRM system with basic features (HR, workplace/employee management).
 
-## Opis projektu
-
-Projekt **Win-a-Day** jest aplikacją zbudowaną w oparciu o [Next.js](https://nextjs.org).
-
 ## Wymagania
 
 Aby uruchomić projekt lokalnie, musisz mieć zainstalowane:
