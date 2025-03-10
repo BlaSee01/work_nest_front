@@ -1,7 +1,7 @@
 # WorkNestHRMS
 ## Frontend
 ### Next.js, TypeScript
-HRM system with basic features (HR, workplace/employee management). Frontend.
+HRM system with basic features (HR, workplace/employee management).
 
 ## Opis projektu
 
