@@ -47,7 +47,7 @@ export default function WorkplacesPage() {
   }, [router]);
 
   const handleDelete = async (id: number, event: React.MouseEvent) => {
-    event.stopPropagation(); // aby błedu nei krzyczało, mimo pomyslności ooperacji
+    event.stopPropagation(); // aby błedu nei krzyczało, mimo pomyslności operacji
 
     const confirmDelete = window.confirm('Czy na pewno chcesz usunąć to miejsce pracy?');
     if (!confirmDelete) return;

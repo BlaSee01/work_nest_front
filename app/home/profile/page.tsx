@@ -81,9 +81,9 @@ export default function ProfilePage() {
         throw new Error("Błąd podczas zapisywania danych.");
       }
   
-      const updatedData = await response.json(); // dane serwera tu
+      const updatedData = await response.json(); // dane serwera
       setUserData(updatedData);
-      setIsEditing(false);
+      setIsEditing(false);  // na false
     } catch (err: any) {
       setError(err.message);
     }
