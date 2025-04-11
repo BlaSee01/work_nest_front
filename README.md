@@ -17,12 +17,12 @@ Aby uruchomić projekt lokalnie, wykonaj poniższe kroki:
 ### 1. Sklonuj repozytorium
 
 ```bash
-git clone https://github.com/BlaSee01/work_next_front.git
+git clone https://github.com/BlaSee01/work_nest_front.git
 ```
 
 ### 2. Przejdź do katalogu projektu
 ```bash
-cd work_next_front
+cd work_nest_front
 ```
 
 ### 3. Zainstaluj zależności
